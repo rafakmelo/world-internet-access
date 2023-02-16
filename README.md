@@ -1,4 +1,4 @@
-# world-internet-usage
+# world-internet-access
 This is a simple project to practice the knowledge acquired from DataCamp data analisys courses.
 
 ## How Much of the World Has Access to the Internet?
